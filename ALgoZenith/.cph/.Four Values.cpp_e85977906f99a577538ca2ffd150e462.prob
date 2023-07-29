@@ -1,0 +1,1 @@
+{"name":"Local: Four Values","url":"e:\\Coding\\Interview\\ALgoZenith\\Four Values.cpp","tests":[{"id":1685448155907,"input":"8 15\n3 2 5 8 1 3 2 3","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\ALgoZenith\\Four Values.cpp","group":"local","local":true}

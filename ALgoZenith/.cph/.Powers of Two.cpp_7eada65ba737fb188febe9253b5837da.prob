@@ -1,0 +1,1 @@
+{"name":"Local: Powers of Two","url":"e:\\Coding\\Interview\\ALgoZenith\\Powers of Two.cpp","tests":[{"id":1672691014797,"input":"3\n5\n1 7 2 3 1\n3\n1 1 1\n3\n2 6 14","output":"5\n3\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\ALgoZenith\\Powers of Two.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Kth Sum Value","url":"e:\\Coding\\Interview\\ALgoZenith\\Kth Sum Value.cpp","tests":[{"id":1679241317012,"input":"1\n3 3 6\n1 2 3\n4 5 6","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\ALgoZenith\\Kth Sum Value.cpp","group":"local","local":true}

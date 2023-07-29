@@ -1,0 +1,1 @@
+{"name":"Local: Knuth_Morris_Pratt","url":"e:\\Coding\\Interview\\string_algorithm\\Knuth_Morris_Pratt.cpp","tests":[{"id":1661060732904,"input":"onionions\nonions","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\string_algorithm\\Knuth_Morris_Pratt.cpp","group":"local","local":true}

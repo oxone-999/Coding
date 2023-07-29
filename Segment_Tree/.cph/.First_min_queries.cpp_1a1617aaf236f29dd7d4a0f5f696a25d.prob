@@ -1,0 +1,1 @@
+{"name":"Local: First_min_queries","url":"e:\\Coding\\InterviewBit\\Segment_Tree\\First_min_queries.cpp","tests":[{"id":1656061551299,"input":"8 5\n3 2 4 1 5 5 2 6\n4 4 7 1 1","output":"3 5 0 1 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\InterviewBit\\Segment_Tree\\First_min_queries.cpp","group":"local","local":true}

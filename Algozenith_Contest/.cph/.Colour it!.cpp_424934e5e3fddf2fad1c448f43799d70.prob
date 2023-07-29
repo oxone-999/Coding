@@ -1,0 +1,1 @@
+{"name":"Local: Colour it!","url":"e:\\Coding\\Interview\\Algozenith_Contest\\Colour it!.cpp","tests":[{"id":1673175913027,"input":"1\n10 2","output":"2"},{"id":1673175923987,"input":"2\n3 2\n3 3","output":"2\n12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\Algozenith_Contest\\Colour it!.cpp","group":"local","local":true}

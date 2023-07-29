@@ -1,0 +1,1 @@
+{"name":"Local: Prime Check AZ101","url":"e:\\Coding\\Interview\\ALgoZenith\\Prime Check AZ101.cpp","tests":[{"id":1670228634201,"input":"3\n1\n13\n36","output":"YES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\ALgoZenith\\Prime Check AZ101.cpp","group":"local","local":true}

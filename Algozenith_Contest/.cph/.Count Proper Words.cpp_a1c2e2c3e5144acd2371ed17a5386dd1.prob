@@ -1,0 +1,1 @@
+{"name":"Local: Count Proper Words","url":"e:\\Coding\\Interview\\Algozenith_Contest\\Count Proper Words.cpp","tests":[{"id":1673166631477,"input":"2\n1\n3","output":"210\n8190"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\Algozenith_Contest\\Count Proper Words.cpp","group":"local","local":true}

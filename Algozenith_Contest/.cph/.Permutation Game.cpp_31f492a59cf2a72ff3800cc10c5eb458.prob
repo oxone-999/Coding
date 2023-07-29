@@ -1,0 +1,1 @@
+{"name":"Local: Permutation Game","url":"e:\\Coding\\Interview\\Algozenith_Contest\\Permutation Game.cpp","tests":[{"id":1673305493060,"input":"3\n2 1 3\n4\n0\n1\n2\n3","output":"1\n1\n4\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\Algozenith_Contest\\Permutation Game.cpp","group":"local","local":true}

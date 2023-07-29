@@ -1,0 +1,1 @@
+{"name":"Local: Prefix Suffix Middle","url":"e:\\Coding\\Interview\\ALgoZenith\\Prefix Suffix Middle.cpp","tests":[{"id":1687084559741,"input":"3\n9\nabababaab\n6\nffffff\n5\nabcde","output":"ab\nffff\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\ALgoZenith\\Prefix Suffix Middle.cpp","group":"local","local":true}

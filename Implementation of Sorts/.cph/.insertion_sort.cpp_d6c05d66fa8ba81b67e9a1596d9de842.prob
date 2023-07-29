@@ -1,0 +1,1 @@
+{"name":"Local: insertion_sort","url":"/media/oxone/New Volume1/Coding/Interview/Implementation of Sorts/insertion_sort.cpp","tests":[{"id":1657487873589,"input":"8\n2 5 4 8 2 5 4 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/oxone/New Volume1/Coding/Interview/Implementation of Sorts/insertion_sort.cpp","group":"local","local":true}

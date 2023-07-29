@@ -1,0 +1,1 @@
+{"name":"Local: Snapshot Array","url":"e:\\Coding\\Interview\\ALgoZenith\\Snapshot Array.cpp","tests":[{"id":1675504913458,"input":"4 3\nset 0 5\nsnap\nset 0 6\nget 0 0","output":"0\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\ALgoZenith\\Snapshot Array.cpp","group":"local","local":true}

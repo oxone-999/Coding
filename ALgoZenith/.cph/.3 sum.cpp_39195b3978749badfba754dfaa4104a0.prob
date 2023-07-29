@@ -1,0 +1,1 @@
+{"name":"Local: 3 sum","url":"e:\\Coding\\Interview\\ALgoZenith\\3 sum.cpp","tests":[{"id":1684059989112,"input":"1\n5 3\n1 2 3 4 5","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\ALgoZenith\\3 sum.cpp","group":"local","local":true}

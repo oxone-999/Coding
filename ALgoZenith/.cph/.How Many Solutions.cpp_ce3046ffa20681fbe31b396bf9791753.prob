@@ -1,0 +1,1 @@
+{"name":"Local: How Many Solutions","url":"e:\\Coding\\Interview\\ALgoZenith\\How Many Solutions.cpp","tests":[{"id":1684601531829,"input":"23 10\n10 2\n0 0","output":"2645\n97"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\ALgoZenith\\How Many Solutions.cpp","group":"local","local":true}

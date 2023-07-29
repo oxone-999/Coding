@@ -1,0 +1,1 @@
+{"name":"Local: Alien_Dictionary","url":"e:\\Coding\\Interview\\Amazon\\Alien_Dictionary.cpp","tests":[{"id":1656386914913,"input":"5 4\nbaa\nabcd\nabca\ncab\ncad","output":"bdac"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\Amazon\\Alien_Dictionary.cpp","group":"local","local":true}

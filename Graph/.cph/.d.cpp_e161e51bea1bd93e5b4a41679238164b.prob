@@ -1,0 +1,1 @@
+{"name":"Local: d","url":"/media/oxone/New Volume1/Coding/Interview/Graph/d.cpp","tests":[{"id":1657637635871,"input":"6\n3\nABA\n1\nA\n3\nORZ\n5\nBAAAA\n4\nBKPT\n10\nCODEFORCES","output":"5\n2\n6\n7\n8\n17"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/oxone/New Volume1/Coding/Interview/Graph/d.cpp","group":"local","local":true}

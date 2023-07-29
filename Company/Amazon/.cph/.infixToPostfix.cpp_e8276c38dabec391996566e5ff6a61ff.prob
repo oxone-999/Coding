@@ -1,0 +1,1 @@
+{"name":"Local: infixToPostfix","url":"e:\\Coding\\Interview\\Company\\Amazon\\infixToPostfix.cpp","tests":[{"id":1665661323324,"input":"(a+(b*c))","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\Company\\Amazon\\infixToPostfix.cpp","group":"local","local":true}

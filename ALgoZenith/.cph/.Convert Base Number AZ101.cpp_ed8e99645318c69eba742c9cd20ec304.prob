@@ -1,0 +1,1 @@
+{"name":"Local: Convert Base Number AZ101","url":"e:\\Coding\\Interview\\ALgoZenith\\Convert Base Number AZ101.cpp","tests":[{"id":1670224858491,"input":"3\n1010 2 16\nA14 16 8\n12 10 4","output":"A\n5024\n30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\ALgoZenith\\Convert Base Number AZ101.cpp","group":"local","local":true}

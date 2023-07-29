@@ -1,0 +1,1 @@
+{"name":"Local: Divide the Piles","url":"e:\\Coding\\Interview\\ALgoZenith\\Divide the Piles.cpp","tests":[{"id":1671452168192,"input":"2\n5\n2 2 6 8 12\n4\n2 6 3 8","output":"Yes\nNo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\ALgoZenith\\Divide the Piles.cpp","group":"local","local":true}

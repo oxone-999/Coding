@@ -1,0 +1,1 @@
+{"name":"Local: Min Stack","url":"e:\\Coding\\Interview\\ALgoZenith\\Min Stack.cpp","tests":[{"id":1674162942697,"input":"11\npush 1\npush 3\ntop\ngetMin\npop\ntop\ngetMin\npop\npop\ntop\ngetMin","output":"3\n1\n1\n1\n-1\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\ALgoZenith\\Min Stack.cpp","group":"local","local":true}

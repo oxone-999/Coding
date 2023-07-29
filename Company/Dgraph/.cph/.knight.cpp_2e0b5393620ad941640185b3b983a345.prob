@@ -1,0 +1,1 @@
+{"name":"Local: knight","url":"/media/oxone/New Volume/Coding/Interview/Company/Dgraph/knight.cpp","tests":[{"id":1657081595204,"input":"2 4\n4\n7 6\n0 0\n2 5\n5 3","output":"11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/oxone/New Volume/Coding/Interview/Company/Dgraph/knight.cpp","group":"local","local":true}

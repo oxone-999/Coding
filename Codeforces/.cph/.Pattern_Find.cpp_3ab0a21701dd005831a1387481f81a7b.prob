@@ -1,0 +1,1 @@
+{"name":"Local: Pattern_Find","url":"e:\\Coding\\Interview\\Codeforces\\Pattern_Find.cpp","tests":[{"id":1661078079340,"input":"3\nababab ab\naaaaa bbb\naafafaasf aaf","output":"3\n1 3 5\nNot Found\n1\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\Codeforces\\Pattern_Find.cpp","group":"local","local":true}

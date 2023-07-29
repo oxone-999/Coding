@@ -1,0 +1,1 @@
+{"name":"Local: MaxEleSubarray","url":"e:\\Coding\\Interview\\ALgoZenith\\MaxEleSubarray.cpp","tests":[{"id":1656838699530,"input":"3\n5 2\n3 1 2 5 4\n4 4\n1 3 2 6\n7 3\n3 5 6 1 9 7 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\ALgoZenith\\MaxEleSubarray.cpp","group":"local","local":true}

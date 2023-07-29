@@ -1,0 +1,1 @@
+{"name":"Local: Character Encoding","url":"e:\\Coding\\Interview\\ALgoZenith\\Character Encoding.cpp","tests":[{"id":1684751576213,"input":"2 4 5","output":"2"},{"id":1684751585901,"input":"20 10 50","output":"366736536"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\ALgoZenith\\Character Encoding.cpp","group":"local","local":true}

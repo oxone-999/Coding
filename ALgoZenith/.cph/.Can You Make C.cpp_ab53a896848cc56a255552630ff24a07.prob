@@ -1,0 +1,1 @@
+{"name":"Local: Can You Make C","url":"e:\\Coding\\Interview\\ALgoZenith\\Can You Make C.cpp","tests":[{"id":1671451398081,"input":"2\n6 9 33\n2 8 1","output":"Yes\nNo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\ALgoZenith\\Can You Make C.cpp","group":"local","local":true}

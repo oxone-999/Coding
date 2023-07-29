@@ -1,0 +1,1 @@
+{"name":"Local: CEQU - Crucial Equation","url":"e:\\Coding\\Interview\\ALgoZenith\\CEQU - Crucial Equation.cpp","tests":[{"id":1685803663450,"input":"2\n2 4 8\n3 6 7","output":"Case 1: Yes\nCase 2: No"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\ALgoZenith\\CEQU - Crucial Equation.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: music","url":"e:\\Coding\\Interview\\Dream_11\\music.cpp","tests":[{"id":1656649086129,"input":"5  \n30  \n20\n150\n100\n40","output":""},{"id":1656652613858,"input":"4\n20\n100\n100\n100","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\Dream_11\\music.cpp","group":"local","local":true}

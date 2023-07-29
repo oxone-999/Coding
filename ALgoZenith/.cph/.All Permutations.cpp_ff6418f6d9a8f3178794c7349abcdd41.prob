@@ -1,0 +1,1 @@
+{"name":"Local: All Permutations","url":"e:\\Coding\\Interview\\ALgoZenith\\All Permutations.cpp","tests":[{"id":1684925022516,"input":"3\n1 1 1","output":"1 1 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\ALgoZenith\\All Permutations.cpp","group":"local","local":true}

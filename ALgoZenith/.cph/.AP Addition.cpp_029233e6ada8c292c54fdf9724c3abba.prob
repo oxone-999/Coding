@@ -1,0 +1,1 @@
+{"name":"Local: AP Addition","url":"e:\\Coding\\Interview\\ALgoZenith\\AP Addition.cpp","tests":[{"id":1672771498949,"input":"5 5\n1 3 1 5\n2 4 2 2\n5 6 3 5\n6 9 5 5\n1 4 2 4","output":"1 7 17 30 36"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\ALgoZenith\\AP Addition.cpp","group":"local","local":true}

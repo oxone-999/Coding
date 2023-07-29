@@ -1,0 +1,1 @@
+{"name":"Local: Number_of_moves","url":"e:\\Coding\\Interview\\Apple\\Number_of_moves.cpp","tests":[{"id":1656497909457,"input":"1\n10\n1\n5\n9\n8","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\Apple\\Number_of_moves.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: count_the_pairs","url":"e:\\Coding\\Interview\\STL\\count_the_pairs.cpp","tests":[{"id":1656734116270,"input":"2\n\n5 4\n\n1 2 2 3 4\n\n3 10\n\n5 5 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\STL\\count_the_pairs.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: lazy_propogation","url":"e:\\Coding\\InterviewBit\\Segment_Tree\\lazy_propogation.cpp","tests":[{"id":1656041743504,"input":"1\n10 6\n1 2 3 4 5 6 7 8 9 10","output":"1 2 1 1 1 1 1 8 9 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\InterviewBit\\Segment_Tree\\lazy_propogation.cpp","group":"local","local":true}

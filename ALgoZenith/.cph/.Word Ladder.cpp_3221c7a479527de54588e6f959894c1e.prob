@@ -1,0 +1,1 @@
+{"name":"Local: Word Ladder","url":"e:\\Coding\\Interview\\ALgoZenith\\Word Ladder.cpp","tests":[{"id":1674723636365,"input":"6\nhot dot dog lot log cog\nhit cog","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\ALgoZenith\\Word Ladder.cpp","group":"local","local":true}

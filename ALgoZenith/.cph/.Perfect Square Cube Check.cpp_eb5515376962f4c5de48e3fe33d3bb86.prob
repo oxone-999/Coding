@@ -1,0 +1,1 @@
+{"name":"Local: Perfect Square Cube Check","url":"e:\\Coding\\Interview\\ALgoZenith\\Perfect Square Cube Check.cpp","tests":[{"id":1670235516403,"input":"4\n1 64\n2 64\n2 9\n1 5","output":"YES\nYES\nNO\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\ALgoZenith\\Perfect Square Cube Check.cpp","group":"local","local":true}

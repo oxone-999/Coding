@@ -1,0 +1,1 @@
+{"name":"Local: Longest AP AZ101","url":"e:\\Coding\\Interview\\ALgoZenith\\Longest AP AZ101.cpp","tests":[{"id":1670277292575,"input":"3\n4\n1 2 3 5\n9\n1 2 3 5 7 9 2 3 4\n2\n1 8","output":"3\n4\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\ALgoZenith\\Longest AP AZ101.cpp","group":"local","local":true}

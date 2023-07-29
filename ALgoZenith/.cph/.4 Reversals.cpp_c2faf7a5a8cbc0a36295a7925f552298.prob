@@ -1,0 +1,1 @@
+{"name":"Local: 4 Reversals","url":"e:\\Coding\\Interview\\ALgoZenith\\4 Reversals.cpp","tests":[{"id":1685531086310,"input":"2\nabacde\nbeacda\nabcdef\nabdefc","output":"YES\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\ALgoZenith\\4 Reversals.cpp","group":"local","local":true}

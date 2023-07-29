@@ -1,0 +1,1 @@
+{"name":"Local: smallest_multiple_with_0s_and_1s","url":"e:\\Coding\\InterviewBit\\smallest_multiple_with_0s_and_1s.cpp","tests":[{"id":1655383273839,"input":"78973","output":"111010111010111100111"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\InterviewBit\\smallest_multiple_with_0s_and_1s.cpp","group":"local","local":true}

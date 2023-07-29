@@ -1,0 +1,1 @@
+{"name":"Local: Round and Round","url":"e:\\Coding\\Interview\\ALgoZenith\\Round and Round.cpp","tests":[{"id":1673435107869,"input":"3\n3\nWWW\n2\nLW\n4\nWLLW","output":"NO\nYES\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\ALgoZenith\\Round and Round.cpp","group":"local","local":true}

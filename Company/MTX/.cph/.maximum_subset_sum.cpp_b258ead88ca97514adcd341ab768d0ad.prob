@@ -1,0 +1,1 @@
+{"name":"Local: maximum_subset_sum","url":"e:\\Coding\\Interview\\MTX\\maximum_subset_sum.cpp","tests":[{"id":1656579568045,"input":"5\n3 7 4 6 5","output":"13"},{"id":1656583617694,"input":"5\n2 1 5 8 4","output":"11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\MTX\\maximum_subset_sum.cpp","group":"local","local":true}

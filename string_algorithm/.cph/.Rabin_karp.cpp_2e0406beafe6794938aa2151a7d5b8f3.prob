@@ -1,0 +1,1 @@
+{"name":"Local: Rabin_karp","url":"e:\\Coding\\Interview\\string_algorithm\\Rabin_karp.cpp","tests":[{"id":1661069725127,"input":"aabcdfrabcsdfabc\nabc","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\string_algorithm\\Rabin_karp.cpp","group":"local","local":true}

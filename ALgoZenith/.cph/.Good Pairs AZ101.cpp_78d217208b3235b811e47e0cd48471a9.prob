@@ -1,0 +1,1 @@
+{"name":"Local: Good Pairs AZ101","url":"e:\\Coding\\Interview\\ALgoZenith\\Good Pairs AZ101.cpp","tests":[{"id":1679220547681,"input":"3\n4\n2 3 5 4\n2 1 5 6\n3\n1 4 6\n2 3 3\n5\n5 6 1 1 2\n1 9 2 4 1","output":"2\n2\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\ALgoZenith\\Good Pairs AZ101.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Grading System AZ101","url":"e:\\Coding\\Interview\\ALgoZenith\\Grading System AZ101.cpp","tests":[{"id":1670148127632,"input":"4\n41 48 76\n-1 48 100\n20 25 61\n21 5 20","output":"A\nF\nC\nF"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\ALgoZenith\\Grading System AZ101.cpp","group":"local","local":true}

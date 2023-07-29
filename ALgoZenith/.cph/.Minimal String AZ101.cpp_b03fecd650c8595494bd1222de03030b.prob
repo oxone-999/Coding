@@ -1,0 +1,1 @@
+{"name":"Local: Minimal String AZ101","url":"e:\\Coding\\Interview\\ALgoZenith\\Minimal String AZ101.cpp","tests":[{"id":1673012668977,"input":"3\nbdab\nsss\ngtddb","output":"abdb\nsss\nbddtg"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\ALgoZenith\\Minimal String AZ101.cpp","group":"local","local":true}

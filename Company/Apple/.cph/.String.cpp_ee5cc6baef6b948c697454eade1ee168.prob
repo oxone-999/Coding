@@ -1,0 +1,1 @@
+{"name":"Local: String","url":"e:\\Coding\\Interview\\Apple\\String.cpp","tests":[{"id":1656504178339,"input":"aaa\naaaa","output":"NO"},{"id":1656504192851,"input":"aaa\naab","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\Apple\\String.cpp","group":"local","local":true}

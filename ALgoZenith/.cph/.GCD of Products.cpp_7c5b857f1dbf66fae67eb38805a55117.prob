@@ -1,0 +1,1 @@
+{"name":"Local: GCD of Products","url":"e:\\Coding\\Interview\\ALgoZenith\\GCD of Products.cpp","tests":[{"id":1684528584916,"input":"3\n4 2 3 1 2\n3 3 6 2\n3 2 4 7","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\ALgoZenith\\GCD of Products.cpp","group":"local","local":true}

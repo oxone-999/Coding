@@ -1,0 +1,1 @@
+{"name":"Local: STL Searching","url":"e:\\Coding\\Interview\\ALgoZenith\\STL Searching.cpp","tests":[{"id":1670397764051,"input":"2\n5 4\n1 2 2 3 4\n1 2\n2 2\n3 4\n3 2\n3 2\n5 5 5\n3 5\n4 5","output":"2 3 5 3 \n3 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\ALgoZenith\\STL Searching.cpp","group":"local","local":true}

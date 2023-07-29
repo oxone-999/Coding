@@ -1,0 +1,1 @@
+{"name":"Local: People on Number Line","url":"e:\\Coding\\Interview\\Algozenith_Contest\\People on Number Line.cpp","tests":[{"id":1674575451050,"input":"5 3\n0 2\n4 7\n9 9","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\Algozenith_Contest\\People on Number Line.cpp","group":"local","local":true}

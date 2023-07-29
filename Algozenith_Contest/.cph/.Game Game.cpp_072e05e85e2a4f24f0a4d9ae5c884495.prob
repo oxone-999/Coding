@@ -1,0 +1,1 @@
+{"name":"Local: Game Game","url":"e:\\Coding\\Interview\\Algozenith_Contest\\Game Game.cpp","tests":[{"id":1673610176779,"input":"6\n2\n2 0\n2\n2 4\n2\n3 1\n2\n2 1\n25\n32 30\n3\n0 3","output":"1\n4\n2\n-1\n617143786\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\Algozenith_Contest\\Game Game.cpp","group":"local","local":true}

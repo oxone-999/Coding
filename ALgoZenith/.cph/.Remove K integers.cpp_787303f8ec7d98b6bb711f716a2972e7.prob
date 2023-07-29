@@ -1,0 +1,1 @@
+{"name":"Local: Remove K integers","url":"e:\\Coding\\Interview\\ALgoZenith\\Remove K integers.cpp","tests":[{"id":1684065883482,"input":"2\n5 1\n1 5 6 8 9\n5 2\n1 5 6 7 1000","output":"2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Interview\\ALgoZenith\\Remove K integers.cpp","group":"local","local":true}
